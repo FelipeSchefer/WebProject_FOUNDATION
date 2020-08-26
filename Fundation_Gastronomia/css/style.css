@@ -1,0 +1,55 @@
+  .sm-i { font-size: 2.5rem; }
+  .md-i { font-size:   3rem; }
+  .lg-i { font-size:   8rem; }
+
+
+/* Large and up */
+@media screen and (min-width: 64em) 
+{
+  .marLarge
+  {
+    margin: 1rem;
+  }
+}
+  
+
+
+
+
+  .backImg
+  {
+    background: url(https://www.ahstatic.com/photos/5555_rsr001_01_p_1024x768.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size:    cover;
+    -o-background-size:      cover;
+    background-size:         cover;
+  }
+
+
+.fundo1
+{
+   background:rgba(252,243,207,0.5) ;  
+}
+.fundo2
+{
+   background:rgba(210,180,222,0.8) ;  
+}
+.fundo3
+{
+  background:rgba(133,193,233,0.8) ;  
+}
+.botao
+{
+  background:rgba(46,204,113) ;  
+}
+.botao1
+{
+  color: rgba(108,52,131) ;  
+}
+.botao2
+{
+  background:rgba(108,52,131) ;  
+}
+
+
+
